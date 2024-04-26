@@ -42,6 +42,19 @@ title: Game Guides
 | Special Ninja | Whether to enable special ninja (Musou only) | Disabled |
 | Endless Mode  | No time limit (Musou only)                   | Disabled |
 
+### Random Event
+
+> You need to trigger the egg mode first, click the game start screen logo several times
+> until you change the logo.
+
+Whenever you start a game, there is a certain probability that a random event will be triggered,
+and the name of the event will be displayed under the “Battle Start” animation after the game starts.
+
+| Event Name          | Effect                                     | Disable Scope             |
+| ------------------- | ------------------------------------------ | ------------------------- |
+| Waterfalls of Truth | The enemy will have the same lineup as you | 1v1, Musou                |
+| I'm Late            | Reduce your party by one character         | 1v1, 2v2, Clone and Musou |
+
 ## Characters
 
 !!! warning "In development ..."
